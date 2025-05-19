@@ -13,3 +13,6 @@ DDPG, TRPO, and PPO
 - DDPG
 - DDPG with Clipped Double
 Q (CDQ)
+
+### Homework 3
+Soft Actor-Critic
